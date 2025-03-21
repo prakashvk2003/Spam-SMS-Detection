@@ -82,7 +82,3 @@ This project uses the [SMS Spam Collection Dataset](https://www.kaggle.com/datas
 2. Messages are converted to TF-IDF feature vectors
 3. A Q-learning agent learns to classify messages based on rewards (correct/incorrect classifications)
 4. The agent improves over time as it processes more messages
-
-## License
-
-MIT
